@@ -192,20 +192,7 @@ RandomForestClassifier(
 
 ```text
 F1-PitStop-Prediction/
-│
-├── data/
-│   └── F1Strategy.csv
-│
-├── notebooks/
-│   └── F1Strategy.ipynb
-│
-├── models/
-│   └── trained_model.pkl
-│
-├── images/
-│   └── results.png
-│
-├── requirements.txt
+├── F1Strategy.ipynb
 │
 └── README.md
 ```
